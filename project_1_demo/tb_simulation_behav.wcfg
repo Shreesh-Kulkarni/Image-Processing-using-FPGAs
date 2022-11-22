@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_simulation_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_simulation" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0 ps"></ZoomStartTime>
+      <ZoomEndTime time="7 ps"></ZoomEndTime>
+      <Cursor1Time time="6,001,000,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="123"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/tb_simulation/HCLK" type="logic">
+      <obj_property name="ElementShortName">HCLK</obj_property>
+      <obj_property name="ObjectShortName">HCLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_simulation/HRESETn" type="logic">
+      <obj_property name="ElementShortName">HRESETn</obj_property>
+      <obj_property name="ObjectShortName">HRESETn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_simulation/vsync" type="logic">
+      <obj_property name="ElementShortName">vsync</obj_property>
+      <obj_property name="ObjectShortName">vsync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_simulation/hsync" type="logic">
+      <obj_property name="ElementShortName">hsync</obj_property>
+      <obj_property name="ObjectShortName">hsync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_simulation/data_R0" type="array">
+      <obj_property name="ElementShortName">data_R0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_R0[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_simulation/data_G0" type="array">
+      <obj_property name="ElementShortName">data_G0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_G0[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_simulation/data_B0" type="array">
+      <obj_property name="ElementShortName">data_B0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_B0[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_simulation/data_R1" type="array">
+      <obj_property name="ElementShortName">data_R1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_R1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_simulation/data_G1" type="array">
+      <obj_property name="ElementShortName">data_G1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_G1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_simulation/data_B1" type="array">
+      <obj_property name="ElementShortName">data_B1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_B1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_simulation/enc_done" type="logic">
+      <obj_property name="ElementShortName">enc_done</obj_property>
+      <obj_property name="ObjectShortName">enc_done</obj_property>
+   </wvobject>
+</wave_config>
