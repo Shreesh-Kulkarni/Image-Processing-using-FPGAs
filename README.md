@@ -9,7 +9,7 @@ This project revolves around deploying basic Image Processing methods on an FPGA
 
 **To run this project download the code file(project1demo) in .zip format and extract it**
 1. ***Install Xilinx Vivado IDE 2021.1 ML edition(Newer versions have uncertainty of success)***
-2. ***Open the file using Vivado IDE**
+2. ***Open the file using Vivado IDE***
 3. ***Once the file is opened run the behavioural simulation command in the IDE which runs the testbench file***
 4. ***Once the simulation is calibrated, run the following command in the command window:-***
 >`run 6ms`
