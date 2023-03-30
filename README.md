@@ -17,4 +17,4 @@ This project revolves around deploying basic Image Processing methods on an FPGA
 6. ***Note the hexadecimal values being read for every horizontal and vertical synchronous reset corresponding to the clock signal. Once the value changes, it means that one pixel of the image has been successfully read***
 7. ***Once the simulation is complete,open the output image in your simulation file. The path to the file will look like this:-***
 > `project_1_demo/project_1_demo.sim/sim_1/behav/xsim`
-8. ***Finally end the simulation and clear the command window***
+8. ***Finally end the simulation and clear the command window***  
